@@ -40,3 +40,9 @@ models:
     # Applies to all files under models/example/
     example:
       +materialized: table
+
+seeds:
+  my_new_project: # Replace with the actual name of your dbt project
+    # Applies to all seeds in the project
+    +schema: lookup
+    +catalog: my_whatsup # Optional

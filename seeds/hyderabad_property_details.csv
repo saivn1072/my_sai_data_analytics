@@ -1,0 +1,31 @@
+property_id,location,property_type,bhk,area_sqft,price_per_sqft,price_in_lakhs,status,facing
+HYD001,Gachibowli,Apartment,3,1850,9500,175.75,Ready to move,East
+HYD002,Kokapet,Apartment,4,3200,12000,384.00,Under Construction,West
+HYD003,Kukatpally,Apartment,2,1200,7000,84.00,Ready to move,North
+HYD004,Jubilee Hills,Villa,5,5500,18000,990.00,Ready to move,East
+HYD005,Tellapur,Villa,4,3500,9000,315.00,Under Construction,South
+HYD006,Uppal,Independent House,3,2200,6000,132.00,Ready to move,West
+HYD007,Kondapur,Apartment,3,1650,8500,140.25,Under Construction,East
+HYD008,Narsingi,Apartment,3,1900,9200,174.80,Ready to move,North
+HYD009,Kompally,Apartment,2,1150,5500,63.25,Ready to move,East
+HYD010,Miyapur,Apartment,2,1050,7500,78.75,Ready to move,South
+HYD011,Banjara Hills,Apartment,4,4000,15000,600.00,Ready to move,West
+HYD012,Manikonda,Apartment,3,1550,7200,111.60,Under Construction,East
+HYD013,Financial District,Apartment,3,2100,11500,241.50,Under Construction,North
+HYD014,Patancheru,Independent House,2,1400,5000,70.00,Ready to move,South
+HYD015,Shamshabad,Villa,3,2500,7500,187.50,Ready to move,East
+HYD016,HITEC City,Apartment,3,2000,12500,250.00,Ready to move,North
+HYD017,Gachibowli,Apartment,2,1300,9800,127.40,Under Construction,West
+HYD018,Tellapur,Apartment,3,1750,8200,143.50,Ready to move,East
+HYD019,Kokapet,Villa,4,4500,13000,585.00,Under Construction,South
+HYD020,LB Nagar,Independent House,3,1800,6500,117.00,Ready to move,East
+HYD021,Nanakramguda,Apartment,3,1950,10500,204.75,Under Construction,West
+HYD022,Kondapur,Apartment,2,1250,8800,110.00,Ready to move,North
+HYD023,Bachupally,Apartment,2,1100,5800,63.80,Under Construction,East
+HYD024,Kollur,Villa,3,2800,7000,196.00,Ready to move,West
+HYD025,Jubilee Hills,Independent House,4,4200,16500,693.00,Ready to move,North
+HYD026,Bandlaguda Jagir,Apartment,2,1200,6200,74.40,Ready to move,South
+HYD027,Chandanagar,Apartment,3,1500,6900,103.50,Under Construction,East
+HYD028,Adibatla,Villa,3,2400,5200,124.80,Ready to move,North
+HYD029,Nizampet,Apartment,2,1100,6100,67.10,Ready to move,West
+HYD030,Pocharam,Apartment,2,1000,4500,45.00,Ready to move,East
